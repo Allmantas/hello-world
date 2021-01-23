@@ -1,3 +1,2 @@
 # hello-world
-
-Rašau kažką
+Trying stuff out
